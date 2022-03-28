@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.exe
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.deps.json
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.runtimeconfig.json
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.dll
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\bin\Debug\netcoreapp3.1\Task.Abstract.pdb
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.dll
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.pdb
+C:\Users\HP\Desktop\Development\C--Abstract\Task.Abstract\Task.Abstract\obj\Debug\netcoreapp3.1\Task.Abstract.genruntimeconfig.cache
